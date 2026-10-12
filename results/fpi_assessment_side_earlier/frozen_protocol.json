@@ -1,0 +1,60 @@
+{
+  "question": "Does inference-trial-count sensitivity remain when the fitted model is unchanged?",
+  "frozen_training_budget": 5,
+  "inference_budgets": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "methods": [
+    "Mean",
+    "Median"
+  ],
+  "subset_selection": "all combinations with uniform acquisition expectation; no probability ensembling",
+  "bootstrap": "5000 class-stratified people, retaining repeat/subset exposure; conditional, no refit",
+  "contrasts": [
+    "five minus one",
+    "three minus five"
+  ],
+  "seed": 20261022,
+  "stage": "post hoc design-confound sensitivity, not new independent confirmation or primary redefinition",
+  "training_and_preprocessing_changed": false,
+  "clinical_noninferiority_margin_established": false,
+  "source_cache_sha256": "1cdef1a7c3dc181f8e8ccfcdd1585992017d163ff79f6afa785b0e3cae37c924",
+  "source_split_sha256": "42b7d70a85da97ca6240b3fa4b85451cec5b13dae97ea1e6588eb463ffdd025c",
+  "script_sha256": "7f449f453e95cebe485776754021e33579b6802c8d7db7a0c92bbfa89bc7776f",
+  "model_hashes": {
+    "models\\r0_f0_Mean_k5.npz": "24abf5e9e67d222133975400c6a7a75ae97d6cbe2b852d0500f0a3d677b7e699",
+    "models\\r0_f0_Median_k5.npz": "fabaecb85a520c0671f067a6f0dac8dae89e2a81e1ec8be0338197ccc49ad181",
+    "models\\r0_f1_Mean_k5.npz": "4243e73308938bc6c0c08a283a8b7b06b29b205425c655895f7f4ef5ac85fadb",
+    "models\\r0_f1_Median_k5.npz": "a5d3170e7bfc630603af5d7967d63cf499f108dafae95cd3f000e4f22c024f29",
+    "models\\r0_f2_Mean_k5.npz": "80f6ed4b8a39fc77abdb3e34a73416f0eb3e4d5cd5916b8c9d8de97cbab091db",
+    "models\\r0_f2_Median_k5.npz": "35a586d05ea70848306a1a21fc47fb82c4cec234fd7da9c0a4cb02018d47687f",
+    "models\\r0_f3_Mean_k5.npz": "67ef85f76244afffc54c51187c7618b0a41f829b91ea04cf05de5ccf08483a62",
+    "models\\r0_f3_Median_k5.npz": "84c3d33d8432ca8dcf98214330c176faa5915b634a1a8452ac848a4c857e8dc7",
+    "models\\r0_f4_Mean_k5.npz": "44e0f41aee77c3a57fe199cd38222bf4cf55891e25fd992bffcafd697a477278",
+    "models\\r0_f4_Median_k5.npz": "af9bed2cf3f9dd9315685b62124518f447e59eb54962dc1d7afeb47d06331ff6",
+    "models\\r1_f0_Mean_k5.npz": "24d600cd32cb9b6e08bc480ccb92789fa3f7f700c48921c39a122a2b73f88582",
+    "models\\r1_f0_Median_k5.npz": "cad048d0746f21e4ec940208f58c881031d10d17bdaad106aba1d7a9db5816c9",
+    "models\\r1_f1_Mean_k5.npz": "8a10836e1f3c258dced8608e4bcd801a9a83b5f6d44fd4538f3a1b07dc85b86d",
+    "models\\r1_f1_Median_k5.npz": "5cb12afcc9c5fca345296a67a34cbbddcf3d4c4e3b80e9b235c999c46a1ccda1",
+    "models\\r1_f2_Mean_k5.npz": "1b7a6c153232e376a29c64790c751be6550b7f69cc00bd314c7fe01d5eeef5a4",
+    "models\\r1_f2_Median_k5.npz": "85ff1daf7cbf8d14021f7c714865d8b689caaee88eda2be8c4bfa3461c566371",
+    "models\\r1_f3_Mean_k5.npz": "531611f24c81aa8641bc5ebd47af629b2cfb05aa3a60251f68fba8eac66006ed",
+    "models\\r1_f3_Median_k5.npz": "2b78bd87092be9f06479f883fe254b165507e4db3a5a0317cac0d51a2f399328",
+    "models\\r1_f4_Mean_k5.npz": "9427a921fc937c2d158bb528cd1b040fe342952417d3cd4139ac2d7cdf9bdff5",
+    "models\\r1_f4_Median_k5.npz": "c57d822065d57c12965db7aac286f612039d7527dd9ea1ac7d7caca3b21acbd9",
+    "models\\r2_f0_Mean_k5.npz": "b62669833b40d8f668d367824ed1002cada28e24a2b3c2ebdb5fcc48b64d2160",
+    "models\\r2_f0_Median_k5.npz": "e40d2838ba5b97a421e2d41e4a7914f33345e94e7c5546aecfcffd21454a6faa",
+    "models\\r2_f1_Mean_k5.npz": "44c80822b3715ce123b63a8b9e3315a884d6bf6732ab30a18fcf01b9c528ade0",
+    "models\\r2_f1_Median_k5.npz": "51085bc6a5b8e95f134787f127c19c6979c723106603d168083be31cf3a4bd56",
+    "models\\r2_f2_Mean_k5.npz": "b08236e349464ce3e607335a063cf0114d562e8392606d8dee1b02c00aac5ad3",
+    "models\\r2_f2_Median_k5.npz": "bb3861b1affc234c465b321d5aa1eb3625340d20a349a6149b03f26e71670842",
+    "models\\r2_f3_Mean_k5.npz": "18fb0b068064faa50b8fcefb44a654a5dbbacea5c0acd5a73f4758190cc937a9",
+    "models\\r2_f3_Median_k5.npz": "19c2dd6845e8a538b2e1fff9ba1c7da2fe0d1a771192b17ae0a8ae6d0397640a",
+    "models\\r2_f4_Mean_k5.npz": "dc59a6541b84d8a1039b1d82ec38745c14b15377d0121bb82ae6400d1c75276d",
+    "models\\r2_f4_Median_k5.npz": "d86edaee7ca4ab25b3e335845178dd026c1a0d1647b5e29263c10ebf1033b6c6"
+  }
+}

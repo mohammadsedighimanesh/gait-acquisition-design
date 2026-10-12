@@ -1,0 +1,12 @@
+{
+  "primary_fits": 4500,
+  "exclusion_control_fits": 4500,
+  "total_fits_executed": 9000,
+  "stage": "grid",
+  "wall_seconds": 492.5,
+  "mean_primary_fit_seconds": 0.0402,
+  "fits_reached_max_iter": 0,
+  "convergence_warnings": 0,
+  "max_n_iter": 19,
+  "official_test_used": false
+}

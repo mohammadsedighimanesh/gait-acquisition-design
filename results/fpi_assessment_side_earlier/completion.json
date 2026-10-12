@@ -1,0 +1,8 @@
+{
+  "status": "COMPLETED",
+  "replayed_models": 30,
+  "actual_new_classifier_fits": 0,
+  "prediction_rows": 13020,
+  "unique_people": 70,
+  "source_or_environment_modified": false
+}

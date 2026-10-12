@@ -1,0 +1,28 @@
+{
+  "status": "FROZEN_A5_2",
+  "date": "2026-10-11T00:48:01",
+  "addendum_A5_2_sha256": "f13e4f24f32589f06a395d23814a0e7b826d2efbe0bfde25f49c860990240fba",
+  "script_sha256": "ef2a73de492cca620e35ce119594693ba1ee3fc07e86c7d0287a6b78cabf3257",
+  "stepup_module_sha256": "0a00bd52172b41a00d100ba6f5b16a11af1bc54348517c283e7daabe3735451e",
+  "features_cache_sha256": "63af0c9bdb98d3cce169a15a2fec4305bda5b6fd340bb76569c2a915f9fcc2e0",
+  "budgets": [
+    150,
+    100
+  ],
+  "warm": 10,
+  "batch": 10,
+  "seeds": 10,
+  "policies": [
+    "CONV5",
+    "FIX1",
+    "FIX2",
+    "FIX3",
+    "FIX4",
+    "FIX10",
+    "FIX20",
+    "RANDOM",
+    "MARGIN"
+  ],
+  "C": 0.1,
+  "kmax": 20
+}

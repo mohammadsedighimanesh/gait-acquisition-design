@@ -1,0 +1,21 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "stage": "policy",
+  "label": "L2",
+  "checks": {
+    "script_hash": true,
+    "manifest_all_hashed": true,
+    "final_fits_equal_models": true,
+    "acquisition_logs_valid": true,
+    "margin_decisions_reproduced": true,
+    "csv_precision_ties_accepted": 12,
+    "models_replayed": 2700,
+    "max_probability_replay_error": 3.885780586188048e-16,
+    "replay_within_1e-8": true,
+    "scaler_from_acquired_trials_max_error": 0.0,
+    "exclusion_within_1e-8": true,
+    "summary_recomputed_match": true
+  },
+  "verification_model_fits": 0
+}
+VEXIT=0

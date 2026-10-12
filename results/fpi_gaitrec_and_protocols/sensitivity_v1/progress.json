@@ -1,0 +1,11 @@
+{
+  "inner_fits": 5400,
+  "refits": 600,
+  "exclusion_control_fits": 600,
+  "total_fits_executed": 6600,
+  "wall_seconds": 50.3,
+  "fits_reached_max_iter": 0,
+  "convergence_warnings": 0,
+  "max_n_iter": 57,
+  "gaitrec_run": false
+}

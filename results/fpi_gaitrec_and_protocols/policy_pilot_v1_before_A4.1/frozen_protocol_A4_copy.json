@@ -1,0 +1,60 @@
+{
+  "status": "FROZEN_A4_POLICY",
+  "date": "2026-10-10T17:32:45",
+  "addendum_A4_sha256": "f29b8d14bf9d00e0a91d70dd89c75b9c518b248e11b47a9b3b8cb768aa57776a",
+  "script_sha256": "893da0a49116c53535c897053c5c5111940dbad91152783018a96cff364919ba",
+  "inputs": {
+    "FPI": {
+      "cache": "1cdef1a7c3dc181f8e8ccfcdd1585992017d163ff79f6afa785b0e3cae37c924",
+      "splits": "42b7d70a85da97ca6240b3fa4b85451cec5b13dae97ea1e6588eb463ffdd025c"
+    },
+    "GaitRec": {
+      "cache": "e487d759e58a28333568ede6f8a41453b90a68201499bdaf39e2818e05b58149",
+      "splits": "15fd4d4d54ca1eb588db3cbd2e3e4d5a5ebc46893e5841e87556adfa6ca8452e"
+    }
+  },
+  "tasks": {
+    "FPI": {
+      "id_col": "participant_id",
+      "budgets": [
+        105,
+        70
+      ],
+      "warm": 7,
+      "batch": 7,
+      "seeds": 20,
+      "pca": null,
+      "classes": 3
+    },
+    "GaitRec": {
+      "id_col": "person_id",
+      "budgets": [
+        3000,
+        1500
+      ],
+      "warm": 100,
+      "batch": 100,
+      "seeds": 5,
+      "pca": 12,
+      "classes": 5
+    }
+  },
+  "policies": [
+    "CONV5",
+    "FIX4",
+    "FIX3",
+    "FIX2",
+    "FIX1",
+    "RANDOM",
+    "MARGIN"
+  ],
+  "C": 0.1,
+  "seed": 20261105,
+  "bootstrap": 5000,
+  "hyperparameter_tuning": "none",
+  "software": {
+    "python": "3.11.15",
+    "sklearn": "1.7.2",
+    "numpy": "2.3.4"
+  }
+}

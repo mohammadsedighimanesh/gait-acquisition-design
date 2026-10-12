@@ -1,0 +1,13 @@
+{
+  "status": "FAILED",
+  "error": "ValueError(\"n_components=12 must be between 0 and min(n_samples, n_features)=8 with svd_solver='full'\")",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_stepup_a52.py\", line 78, in <module>\n    run(L)\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_stepup_a52.py\", line 58, in run\n    pipe = task.fit(task.feats(X_nan, acquired), labels, g.SEED + fold, 'final_fits'); pipe2 = task.fit(task.feats(X_noise, acquired), labels, g.SEED + fold, 'exclusion_control_fits')\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_stepup.py\", line 128, in fit\n    pca = PCA(PCA_K, svd_solver='full', random_state=seed).fit(z); z = pca.transform(z); s2 = StandardScaler().fit(z); z = s2.transform(z)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\sedigh\\.conda\\envs\\economy_ml_p02_llm\\Lib\\site-packages\\sklearn\\base.py\", line 1365, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\sedigh\\.conda\\envs\\economy_ml_p02_llm\\Lib\\site-packages\\sklearn\\decomposition\\_pca.py\", line 440, in fit\n    self._fit(X)\n  File \"C:\\Users\\sedigh\\.conda\\envs\\economy_ml_p02_llm\\Lib\\site-packages\\sklearn\\decomposition\\_pca.py\", line 540, in _fit\n    return self._fit_full(X, n_components, xp, is_array_api_compliant)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\sedigh\\.conda\\envs\\economy_ml_p02_llm\\Lib\\site-packages\\sklearn\\decomposition\\_pca.py\", line 554, in _fit_full\n    raise ValueError(\nValueError: n_components=12 must be between 0 and min(n_samples, n_features)=8 with svd_solver='full'\n",
+  "fits_before_failure": {
+    "primary_fits": 0,
+    "exclusion_control_fits": 6,
+    "internal_fits": 0,
+    "final_fits": 6,
+    "inner_fits": 0,
+    "refits": 0
+  }
+}

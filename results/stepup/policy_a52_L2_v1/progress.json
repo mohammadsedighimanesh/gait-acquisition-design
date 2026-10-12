@@ -1,0 +1,22 @@
+{
+  "primary_fits": 0,
+  "exclusion_control_fits": 2700,
+  "internal_fits": 74250,
+  "final_fits": 2700,
+  "inner_fits": 0,
+  "refits": 0,
+  "warnings": 0,
+  "max_n_iter": 11,
+  "missing_class_fits": 22,
+  "reduced_pca_fits": 900,
+  "single_class_fits": 22,
+  "stage": "policy_a52",
+  "label": "L2",
+  "budgets": [
+    150,
+    100
+  ],
+  "warm": 10,
+  "batch": 10,
+  "wall_seconds": 464.9
+}

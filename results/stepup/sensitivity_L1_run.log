@@ -1,0 +1,7 @@
+                 contrast            metric  recordings_A  recordings_B  paired_pairs    mean  ci_low  ci_high  within_repeat_sd_mean  sd_of_repeat_means  pairs_positive regime
+primary_120x5_minus_60x10 balanced_accuracy           600           600            60  0.0070 -0.0130   0.0270                 0.0376              0.0161              35  tuned
+primary_120x5_minus_60x10          log_loss           600           600            60 -0.0354 -0.0683  -0.0116                 0.0567              0.0128              20  tuned
+primary_120x5_minus_60x10 balanced_accuracy           600           600            60  0.0067 -0.0133   0.0268                 0.0377              0.0163              35  fixed
+primary_120x5_minus_60x10          log_loss           600           600            60 -0.0356 -0.0685  -0.0118                 0.0560              0.0130              20  fixed
+{"primary_fits": 0, "exclusion_control_fits": 0, "internal_fits": 0, "final_fits": 0, "inner_fits": 5400, "refits": 600}
+EXIT=0

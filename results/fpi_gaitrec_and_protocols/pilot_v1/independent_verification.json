@@ -1,0 +1,19 @@
+{
+  "status": "PASS_PILOT_MECHANICAL_CHECKS",
+  "checks": {
+    "protocol_md_hash": true,
+    "input_hashes": true,
+    "output_manifest": true,
+    "nested_membership": true,
+    "class_counts": true,
+    "all_three_classes": true,
+    "test_disjoint_and_recorded": true,
+    "models_replayed": 50,
+    "max_replay_error": 1.1102230246251565e-16,
+    "replay_within_1e-8": true,
+    "exclusion_proof_all_true": true,
+    "provenance_replay_all_pass": true,
+    "fit_count_matches_authorization": true
+  },
+  "verification_model_fits": 0
+}

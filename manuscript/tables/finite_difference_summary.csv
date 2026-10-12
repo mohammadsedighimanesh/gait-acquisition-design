@@ -1,0 +1,9 @@
+Task,Axis,Steps,Positive point estimates,CI above zero,CI below zero
+FPI posture classes (70 men),adding people,15,15,10,0
+FPI posture classes (70 men),adding trials per person,12,11,2,0
+"GaitRec diagnosis classes (1,301 patients)",adding people,12,12,11,0
+"GaitRec diagnosis classes (1,301 patients)",adding trials per person,10,9,4,0
+StepUP sex (150),adding people,15,12,1,0
+StepUP sex (150),adding trials per person,16,16,6,0
+StepUP BMI ≥ 25 (150),adding people,15,14,9,0
+StepUP BMI ≥ 25 (150),adding trials per person,16,9,2,0

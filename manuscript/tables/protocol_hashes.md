@@ -1,0 +1,16 @@
+| Protocol file | Field | SHA-256 (recorded before execution) |
+|---|---|---|
+| frozen_protocol_A1.json | protocol_md_sha256 | d98ee18951e3d0fe3e3f62f09d459211890570b31d757e9283035826b6f5a623 |
+| frozen_protocol_A1.json | addendum_sha256 | 1e43e2c0da3c6b2265a063b997dc947503dd27f52b3a611c486f7455b7ceebae |
+| frozen_protocol_A1.json | grid_script_sha256 | 6f25db2781578141dcb57404d3cf7c459a2c587c114fb5a3a04a05bc4e682475 |
+| frozen_protocol_A2.json | addendum_A2_sha256 | c9a788f058d517861be434608cac3845958151a9c8731c5126541221b4f60119 |
+| frozen_protocol_A2.json | script_sha256 | 0b71b1ca619b03dcf36138471a8dc974d49f8cddacf9b47d64aad94c2b4a1891 |
+| frozen_protocol_A3.json | addendum_A3_sha256 | b86692d409e0f3ac8a8849f38fd2e5e9acc5734d049a268f082dfce5f7df0185 |
+| frozen_protocol_A3.json | script_sha256 | 8b6e8b474a990a1152025392b784d8894581ec6cea9493133e0c02241a52e37e |
+| frozen_protocol_A4.json | addendum_A4_sha256 | f29b8d14bf9d00e0a91d70dd89c75b9c518b248e11b47a9b3b8cb768aa57776a |
+| frozen_protocol_A4.json | script_sha256 | 8784077192577e679e1d3ec975e2a273772f79daddb74e6731da090903d15ffc |
+| frozen_protocol_A5.json | addendum_A5_sha256 | 1669d9910f99c6576a0e731ebb7df46f7560776e57da753a212f94f2a9999985 |
+| frozen_protocol_A5.json | script_sha256 | 0a00bd52172b41a00d100ba6f5b16a11af1bc54348517c283e7daabe3735451e |
+| frozen_protocol_A5_2.json | addendum_A5_2_sha256 | 40b1240b5eba65d56939ea2a20b62ce8cc99cc10444ce7bc0e31e5f50c1c8c21 |
+| frozen_protocol_A5_2.json | script_sha256 | 49c40e9cacf3e748850b228a231506912c191443c4aa1922fc7e29f68a869111 |
+| frozen_protocol.json | protocol_md_sha256 | d98ee18951e3d0fe3e3f62f09d459211890570b31d757e9283035826b6f5a623 |

@@ -1,0 +1,11 @@
+{
+  "primary_fits": 0,
+  "exclusion_control_fits": 0,
+  "internal_fits": 0,
+  "final_fits": 0,
+  "inner_fits": 5400,
+  "refits": 600,
+  "stage": "sensitivity",
+  "label": "L1",
+  "wall_seconds": 73.0
+}

@@ -1,0 +1,3 @@
+contrast,metric,recordings_A,recordings_B,paired_pairs,mean,ci_low,ci_high,within_repeat_sd_mean,sd_of_repeat_means,pairs_positive
+primary_1000x3_minus_600x5,balanced_accuracy,3000,3000,5,0.010416062677176641,-3.063278599544647e-05,0.02062030317340452,0.010153512923642713,,4
+primary_1000x3_minus_600x5,log_loss,3000,3000,5,-0.018076690500680746,-0.022888862929406277,-0.013278759348659862,0.00867973655951339,,0

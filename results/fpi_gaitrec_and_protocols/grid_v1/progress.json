@@ -1,0 +1,13 @@
+{
+  "primary_fits": 5400,
+  "exclusion_control_fits": 5400,
+  "total_fits_executed": 10800,
+  "expected_primary_fits": 5400,
+  "wall_seconds": 75.8,
+  "mean_primary_fit_seconds": 0.0061,
+  "fits_reached_max_iter": 0,
+  "convergence_warnings": 0,
+  "max_n_iter": 30,
+  "sensitivity_run": false,
+  "gaitrec_run": false
+}

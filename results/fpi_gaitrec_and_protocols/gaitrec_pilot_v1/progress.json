@@ -1,0 +1,12 @@
+{
+  "primary_fits": 50,
+  "exclusion_control_fits": 50,
+  "total_fits_executed": 100,
+  "stage": "pilot",
+  "wall_seconds": 6.7,
+  "mean_primary_fit_seconds": 0.0511,
+  "fits_reached_max_iter": 0,
+  "convergence_warnings": 0,
+  "max_n_iter": 18,
+  "official_test_used": false
+}

@@ -1,0 +1,30 @@
+{
+  "purpose": "methodological transfer of exhaustive recorded-trial stability audit, not FPI external validation",
+  "dataset": "pinned GaitRec processed vertical GRF only, left/right101stance samples,202predictors",
+  "official_test": "all TEST participants reserved; no test waveform modeling or outcome performance inspection",
+  "cohort": "official TRAIN; self-selected speed2; normal shoes1; no orthopedic insole0; first chronological eligible session with >=5 valid paired trials",
+  "bag": "five lowest trial IDs in first eligible session, label-blind; exhaust all31nonempty subsets, no best-subset selection",
+  "model": "fixed five-trial Mean or Median pooling -> train-only StandardScaler -> PCA12(fullSVD) -> StandardScaler -> balanced multinomial Logistic",
+  "C_grid": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "selection": "3 inner person folds mean logloss,tie smallerC;3repeats x5person outer folds",
+  "evaluation": "same fixed five-trial-trained model applied to each subset; expected accuracy/BA across subsets, not average probabilities across all trials",
+  "primary": "within-Median expected BA at5minus1; secondary3minus5 with exploratory engineering noninferiority margin3percentage points",
+  "explanation": "fixed full-bag winner versus runner-up linear logit contrast;10groups(left/right x5equal normalized-stance bins), top3group-set stability across all >=3trial subsets",
+  "stability": "finite recorded-subset invariance, not correctness, future-session guarantee or physical clinical phase annotation",
+  "seed": 20261030,
+  "conditional_bootstrap": "4000class-stratified person draws retaining repeats; no retraining uncertainty",
+  "source_hashes": {
+    "GRF_metadata.csv": "0d89799a2703559a836437560f2a05fbc328f6f6aea1cb73d44ee71b9952191d",
+    "GRF_F_V_PRO_left.csv": "1b1c898a77d8d12ed99f2c62d29d106f031155d02ba805958942287aacdf4ead",
+    "GRF_F_V_PRO_right.csv": "2688367e8739b04a164b72afbe2a05eca67763690ec8c7d5a65a80d579bc4469"
+  },
+  "script_sha256": "3e4a4b00c55e87926ece7c5f69cfd2ccaf99e5dd375372f9a874cb08fef3746f",
+  "observed_source_metadata_people": 2295,
+  "official_train_people": 1625,
+  "prior_art": "aggregation previously studied (Slijepcevic2020); no claim of novel mean/median/PCA/logistic algorithm",
+  "environment_changed": false
+}

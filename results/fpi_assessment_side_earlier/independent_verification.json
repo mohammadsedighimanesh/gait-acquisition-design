@@ -1,0 +1,8 @@
+{
+  "status": "PASS_FIXED_MODEL_REPLAY_SUBSET_IDENTITY_GROUPS_METRICS_AND_CONDITIONAL_INTERVALS",
+  "prediction_rows_verified": 13020,
+  "frozen_models": 30,
+  "paired_contrasts_verified": 4,
+  "actual_classifier_fits": 0,
+  "unique_people": 70
+}

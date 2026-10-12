@@ -1,0 +1,78 @@
+{
+  "status": "FROZEN_A3_GAITREC",
+  "date": "2026-10-10T16:15:19",
+  "addendum_A3_sha256": "b86692d409e0f3ac8a8849f38fd2e5e9acc5734d049a268f082dfce5f7df0185",
+  "script_sha256": "8b6e8b474a990a1152025392b784d8894581ec6cea9493133e0c02241a52e37e",
+  "input_sha256": {
+    "idea1_2026\\gaitrec_trial_stability_pilot_v1\\development_bags.npz": "e487d759e58a28333568ede6f8a41453b90a68201499bdaf39e2818e05b58149",
+    "idea1_2026\\gaitrec_trial_stability_pilot_v1\\outer_person_splits_before_fit.csv": "15fd4d4d54ca1eb588db3cbd2e3e4d5a5ebc46893e5841e87556adfa6ca8452e",
+    "idea1_2026\\gaitrec_trial_stability_pilot_v1\\selected_development_sessions.csv": "ff33d4005ca5df90cd1f0b113b152e4836ba692f37a339acbb8981f1297f1b58",
+    "idea1_2026\\gaitrec_source_vertical_v1\\GRF_metadata.csv": "0d89799a2703559a836437560f2a05fbc328f6f6aea1cb73d44ee71b9952191d"
+  },
+  "grid": {
+    "n": [
+      300,
+      500,
+      600,
+      800,
+      1000
+    ],
+    "k": [
+      1,
+      3,
+      5
+    ],
+    "draws": 20
+  },
+  "allocation": {
+    "300": [
+      33,
+      54,
+      85,
+      81,
+      47
+    ],
+    "500": [
+      56,
+      90,
+      141,
+      135,
+      78
+    ],
+    "600": [
+      67,
+      108,
+      170,
+      161,
+      94
+    ],
+    "800": [
+      90,
+      144,
+      226,
+      215,
+      125
+    ],
+    "1000": [
+      112,
+      180,
+      283,
+      269,
+      156
+    ]
+  },
+  "C": 0.1,
+  "pca": 12,
+  "contrasts": [
+    "primary_1000x3_minus_600x5",
+    "secondary_500x3_minus_300x5"
+  ],
+  "seed": 20261104,
+  "bootstrap": 5000,
+  "official_test_used": false,
+  "software": {
+    "python": "3.11.15",
+    "sklearn": "1.7.2",
+    "numpy": "2.3.4"
+  }
+}

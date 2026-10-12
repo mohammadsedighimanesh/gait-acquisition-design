@@ -1,0 +1,22 @@
+a52 L1 r0 f0 seed0
+Traceback (most recent call last):
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup_a52.py", line 78, in <module>
+    run(L)
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup_a52.py", line 58, in run
+    pipe = task.fit(task.feats(X_nan, acquired), labels, g.SEED + fold, 'final_fits'); pipe2 = task.fit(task.feats(X_noise, acquired), labels, g.SEED + fold, 'exclusion_control_fits')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup.py", line 128, in fit
+    pca = PCA(PCA_K, svd_solver='full', random_state=seed).fit(z); z = pca.transform(z); s2 = StandardScaler().fit(z); z = s2.transform(z)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\base.py", line 1365, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\decomposition\_pca.py", line 440, in fit
+    self._fit(X)
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\decomposition\_pca.py", line 540, in _fit
+    return self._fit_full(X, n_components, xp, is_array_api_compliant)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\decomposition\_pca.py", line 554, in _fit_full
+    raise ValueError(
+ValueError: n_components=12 must be between 0 and min(n_samples, n_features)=8 with svd_solver='full'
+EXIT=1

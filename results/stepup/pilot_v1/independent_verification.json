@@ -1,0 +1,24 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "stage": "pilot",
+  "label": "L1",
+  "checks": {
+    "addendum_hash": true,
+    "script_hash": true,
+    "manifest_all_hashed": true,
+    "fit_counts": true,
+    "exclusion_flags_all_true": true,
+    "convergence_no_max_iter": true,
+    "nested_people_and_trials": true,
+    "class_counts_match": true,
+    "test_recorded_and_disjoint": true,
+    "models_replayed": 50,
+    "max_probability_replay_error": 2.220446049250313e-16,
+    "replay_within_1e-8": true,
+    "scaler1_from_retained_trials_max_error": 0.0,
+    "exclusion_within_1e-8": true,
+    "surface_recomputed_match": true,
+    "contrast_recomputed_match": true
+  },
+  "verification_model_fits": 0
+}

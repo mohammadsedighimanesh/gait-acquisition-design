@@ -1,0 +1,15 @@
+{
+  "closest_prior_work_comparison.csv": "afd4e18a14c1325c2a7a5e56324a2456f42e7c18b716ab69bc01318185127efd",
+  "completion.json": "f856ec1143366c6938aa9d20beee298dd3773c7163f974dbde3d5d328fcaff43",
+  "contribution_claim_audit.csv": "c8ea157a7c11f76fa22190a6672a81d3a9e44003f49c93d228f96ffea2f6118f",
+  "CRITICAL_CONTRIBUTION_REVIEW.md": "01896d95712cc5bc7ec61f5c15475e1e8cb543aef79563918f8ce24a7815c533",
+  "fixed_model_choice_instability.csv": "af4701e8790445a591cb5d46e3344dffe9deb2da6152264058067a61f6a7e599",
+  "fixed_model_metrics_by_repeat.csv": "a53642be961880f8129386b20e443619c63020bfeb705d7d23394978a612eaf1",
+  "fixed_model_paired_contrasts.csv": "49b07af524b3a9ab868136f0f3b93f48e6161a0f07b2402df86ca08c6e74433a",
+  "fixed_model_performance_ci.csv": "09634949b3982248c5760f91871e58901b90ec36b01696bc1189f2d821ac4ca4",
+  "fixed_model_person_subset_sensitivity.csv": "b8756566a8cfeae43faac0aad228f377b0221920858c14c313bad1b47d98a56f",
+  "fixed_model_subset_predictions.csv": "1a73b9254ee1378cc53059b1bbccdfd3b5ff3c0b2964edbe1979417629437f02",
+  "fixed_vs_budget_specific_summary.csv": "694f09f5b903b9869d46007c4f7e07401725f2e35dea2d0e76200e0c86c51e91",
+  "frozen_protocol.json": "7d5fc1e099f33d53a37b2260706f054e51e3f2e4f802c34f5ee1114e530bd7cb",
+  "independent_verification.json": "067a1a770cc69df5ac0f6b5c70bb6def54266c44674196be58989a236835e85e"
+}

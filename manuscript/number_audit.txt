@@ -1,0 +1,65 @@
+PASS | abstract FPI | +3.7 points, 95% CI 1.3 to 6.1
+PASS | abstract GaitRec | +0.8, 0.3 to 1.4
+PASS | abstract BMI | +2.6, 0.9 to 4.3
+PASS | abstract sex | +0.7, -1.3 to 2.7
+PASS | sec3.2 FPI | by 3.7 points (95% CI 1.3 to 6.1
+PASS | sec3.2 GaitRec primary | was 0.8 points (0.3 to 1.4)
+PASS | sec3.2 GaitRec secondary | it was 0.8 (0.4 to 1.2)
+PASS | sec3.2 BMI | by 2.6 points (0.9 to 4.3)
+PASS | sec3.2 sex | (+0.7, -1.3 to 2.7;
+PASS | sec3.2 FPI near-budget | gave +3.5 points (0.4 to 6.7)
+PASS | logloss FPI | FPI -0.087
+PASS | logloss GaitRec | GaitRec -0.016
+PASS | logloss sex | StepUP sex -0.036
+PASS | logloss BMI | StepUP BMI -0.057
+PASS | 3.3 sex 5-10 | added 1.8 points (0.3 to 3.3)
+PASS | 3.3 sex 10-20 | added 2.6 points (0.0 to 5.2)
+PASS | 3.3 BMI 10-20 | -1.3 points, 95% CI -3.4 to 0.7
+PASS | 3.4 within SD | 5.2 points
+PASS | 3.4 between SD | 0.55 points
+PASS | 3.4 21x3 SD | 4.7 points at 21 × 3
+PASS | 3.5 tuned | +4.0 points (1.6 to 6.2) with tuned C
+PASS | 3.5 C share 35 | 83% of the 35 × 3
+PASS | 3.5 C share 21 | 79% of the 21 × 5
+PASS | 3.5 ll 35x3 | 0.036 (35 × 3)
+PASS | 3.5 ll 21x5 | 0.043 (21 × 5)
+PASS | S10 5 vs 1 | 4.3 points (95% CI 0.6 to 8.1)
+PASS | S10 3 vs 5 | 1.6 points below five (-3.6 to 0.6)
+PASS | policy conv5 FPI105 | +9.4 points (95% CI 4.6 to 14.0)
+PASS | policy conv5 FPI70 | +11.6 (6.6 to 16.4)
+PASS | policy conv5 Gait1500 | +2.3 (1.3 to 3.2)
+PASS | policy conv5 BMI300 | +2.7 (0.4 to 5.0)
+PASS | policy conv5 BMI150 | +3.4 (0.5 to 6.3)
+PASS | policy conv5 BMI100 | +4.4 (1.9 to 6.9)
+PASS | policy conv5 sex300 | +0.8
+PASS | policy conv5 sex150 | -1.4
+PASS | policy conv5 sex100 | +0.3
+PASS | policy gaitrec 3000 | gained 1.0 point (0.3 to 1.8)
+PASS | best-fixed FPI70 | -2.3 points, -4.1 to -0.4)
+PASS | best-fixed Gait1500 | (-0.5, -0.8 to -0.1)
+PASS | best-fixed BMI100 | (-1.9, -3.4 to -0.5)
+PASS | random FPI105 | +1.6, 0.8 to 2.5)
+PASS | random BMI100 | +1.8, 0.5 to 3.1)
+PASS | sex150 best | 2.1 points below the best fixed design (-5.3 to 1.1)
+PASS | sex150 conv | 1.4 points below the convention (-3.9 to 1.2)
+PASS | best fixed range | ranged from -2.3 to +0.1 points
+PASS | share people | 56% to 67%
+PASS | final fits | 38,100 final model fits
+PASS | internal | 723,761 policy-internal
+PASS | inner | 10,800 inner-tuning
+PASS | refits | 1,200 refits
+PASS | controls | 38,700 exclusion-control fits
+PASS | fd people | 53 of 57 steps that added people had a positive point estimate and 31 had a 95% interval above zero
+PASS | fd trials | 45 of 54 were positive, 14 had an interval above zero
+PASS | 3to5 counts | In 18 of the 19 cells
+PASS | 3to5 zero | in 17 the interval included zero
+PASS | surface FPI | 0.610
+PASS | surface FPI hi | 0.722
+PASS | surface GaitRec | 0.404
+PASS | surface GaitRec hi | 0.431
+PASS | surface sex | 0.530
+PASS | surface sex hi | 0.606
+PASS | surface bmi | 0.598
+PASS | surface bmi hi | 0.679
+
+63/63 checks pass

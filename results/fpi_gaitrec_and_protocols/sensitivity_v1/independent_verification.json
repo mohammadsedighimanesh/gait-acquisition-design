@@ -1,0 +1,25 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "checks": {
+    "addendum_hash": true,
+    "script_hash": true,
+    "input_hashes": true,
+    "grid_inputs_unchanged": true,
+    "manifest_all_hashed": true,
+    "manifest_models_600": true,
+    "fit_counts": true,
+    "convergence_no_max_iter": true,
+    "convergence_warnings": 0,
+    "selection_rule_replayed": true,
+    "inner_folds_partition_acquired_people_disjoint_from_test": true,
+    "models_replayed": 600,
+    "max_probability_replay_error": 1.1102230246251565e-16,
+    "replay_within_1e-8": true,
+    "scaler_from_retained_trials_max_error": 0.0,
+    "exclusion_within_1e-8": true,
+    "selected_C_consistent_across_files": true,
+    "tuned_contrasts_recomputed_match": true,
+    "tuned_vs_fixed_by_cell_recomputed_match": true
+  },
+  "verification_model_fits": 0
+}

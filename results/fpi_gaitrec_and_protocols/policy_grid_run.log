@@ -1,0 +1,449 @@
+grid FPI r0 f0 seed0
+grid FPI r0 f0 seed1
+grid FPI r0 f0 seed2
+grid FPI r0 f0 seed3
+grid FPI r0 f0 seed4
+grid FPI r0 f0 seed5
+grid FPI r0 f0 seed6
+grid FPI r0 f0 seed7
+grid FPI r0 f0 seed8
+grid FPI r0 f0 seed9
+grid FPI r0 f0 seed10
+grid FPI r0 f0 seed11
+grid FPI r0 f0 seed12
+grid FPI r0 f0 seed13
+grid FPI r0 f0 seed14
+grid FPI r0 f0 seed15
+grid FPI r0 f0 seed16
+grid FPI r0 f0 seed17
+grid FPI r0 f0 seed18
+grid FPI r0 f0 seed19
+grid FPI r0 f1 seed0
+grid FPI r0 f1 seed1
+grid FPI r0 f1 seed2
+grid FPI r0 f1 seed3
+grid FPI r0 f1 seed4
+grid FPI r0 f1 seed5
+grid FPI r0 f1 seed6
+grid FPI r0 f1 seed7
+grid FPI r0 f1 seed8
+grid FPI r0 f1 seed9
+grid FPI r0 f1 seed10
+grid FPI r0 f1 seed11
+grid FPI r0 f1 seed12
+grid FPI r0 f1 seed13
+grid FPI r0 f1 seed14
+grid FPI r0 f1 seed15
+grid FPI r0 f1 seed16
+grid FPI r0 f1 seed17
+grid FPI r0 f1 seed18
+grid FPI r0 f1 seed19
+grid FPI r0 f2 seed0
+grid FPI r0 f2 seed1
+grid FPI r0 f2 seed2
+grid FPI r0 f2 seed3
+grid FPI r0 f2 seed4
+grid FPI r0 f2 seed5
+grid FPI r0 f2 seed6
+grid FPI r0 f2 seed7
+grid FPI r0 f2 seed8
+grid FPI r0 f2 seed9
+grid FPI r0 f2 seed10
+grid FPI r0 f2 seed11
+grid FPI r0 f2 seed12
+grid FPI r0 f2 seed13
+grid FPI r0 f2 seed14
+grid FPI r0 f2 seed15
+grid FPI r0 f2 seed16
+grid FPI r0 f2 seed17
+grid FPI r0 f2 seed18
+grid FPI r0 f2 seed19
+grid FPI r0 f3 seed0
+grid FPI r0 f3 seed1
+grid FPI r0 f3 seed2
+grid FPI r0 f3 seed3
+grid FPI r0 f3 seed4
+grid FPI r0 f3 seed5
+grid FPI r0 f3 seed6
+grid FPI r0 f3 seed7
+grid FPI r0 f3 seed8
+grid FPI r0 f3 seed9
+grid FPI r0 f3 seed10
+grid FPI r0 f3 seed11
+grid FPI r0 f3 seed12
+grid FPI r0 f3 seed13
+grid FPI r0 f3 seed14
+grid FPI r0 f3 seed15
+grid FPI r0 f3 seed16
+grid FPI r0 f3 seed17
+grid FPI r0 f3 seed18
+grid FPI r0 f3 seed19
+grid FPI r0 f4 seed0
+grid FPI r0 f4 seed1
+grid FPI r0 f4 seed2
+grid FPI r0 f4 seed3
+grid FPI r0 f4 seed4
+grid FPI r0 f4 seed5
+grid FPI r0 f4 seed6
+grid FPI r0 f4 seed7
+grid FPI r0 f4 seed8
+grid FPI r0 f4 seed9
+grid FPI r0 f4 seed10
+grid FPI r0 f4 seed11
+grid FPI r0 f4 seed12
+grid FPI r0 f4 seed13
+grid FPI r0 f4 seed14
+grid FPI r0 f4 seed15
+grid FPI r0 f4 seed16
+grid FPI r0 f4 seed17
+grid FPI r0 f4 seed18
+grid FPI r0 f4 seed19
+grid FPI r1 f0 seed0
+grid FPI r1 f0 seed1
+grid FPI r1 f0 seed2
+grid FPI r1 f0 seed3
+grid FPI r1 f0 seed4
+grid FPI r1 f0 seed5
+grid FPI r1 f0 seed6
+grid FPI r1 f0 seed7
+grid FPI r1 f0 seed8
+grid FPI r1 f0 seed9
+grid FPI r1 f0 seed10
+grid FPI r1 f0 seed11
+grid FPI r1 f0 seed12
+grid FPI r1 f0 seed13
+grid FPI r1 f0 seed14
+grid FPI r1 f0 seed15
+grid FPI r1 f0 seed16
+grid FPI r1 f0 seed17
+grid FPI r1 f0 seed18
+grid FPI r1 f0 seed19
+grid FPI r1 f1 seed0
+grid FPI r1 f1 seed1
+grid FPI r1 f1 seed2
+grid FPI r1 f1 seed3
+grid FPI r1 f1 seed4
+grid FPI r1 f1 seed5
+grid FPI r1 f1 seed6
+grid FPI r1 f1 seed7
+grid FPI r1 f1 seed8
+grid FPI r1 f1 seed9
+grid FPI r1 f1 seed10
+grid FPI r1 f1 seed11
+grid FPI r1 f1 seed12
+grid FPI r1 f1 seed13
+grid FPI r1 f1 seed14
+grid FPI r1 f1 seed15
+grid FPI r1 f1 seed16
+grid FPI r1 f1 seed17
+grid FPI r1 f1 seed18
+grid FPI r1 f1 seed19
+grid FPI r1 f2 seed0
+grid FPI r1 f2 seed1
+grid FPI r1 f2 seed2
+grid FPI r1 f2 seed3
+grid FPI r1 f2 seed4
+grid FPI r1 f2 seed5
+grid FPI r1 f2 seed6
+grid FPI r1 f2 seed7
+grid FPI r1 f2 seed8
+grid FPI r1 f2 seed9
+grid FPI r1 f2 seed10
+grid FPI r1 f2 seed11
+grid FPI r1 f2 seed12
+grid FPI r1 f2 seed13
+grid FPI r1 f2 seed14
+grid FPI r1 f2 seed15
+grid FPI r1 f2 seed16
+grid FPI r1 f2 seed17
+grid FPI r1 f2 seed18
+grid FPI r1 f2 seed19
+grid FPI r1 f3 seed0
+grid FPI r1 f3 seed1
+grid FPI r1 f3 seed2
+grid FPI r1 f3 seed3
+grid FPI r1 f3 seed4
+grid FPI r1 f3 seed5
+grid FPI r1 f3 seed6
+grid FPI r1 f3 seed7
+grid FPI r1 f3 seed8
+grid FPI r1 f3 seed9
+grid FPI r1 f3 seed10
+grid FPI r1 f3 seed11
+grid FPI r1 f3 seed12
+grid FPI r1 f3 seed13
+grid FPI r1 f3 seed14
+grid FPI r1 f3 seed15
+grid FPI r1 f3 seed16
+grid FPI r1 f3 seed17
+grid FPI r1 f3 seed18
+grid FPI r1 f3 seed19
+grid FPI r1 f4 seed0
+grid FPI r1 f4 seed1
+grid FPI r1 f4 seed2
+grid FPI r1 f4 seed3
+grid FPI r1 f4 seed4
+grid FPI r1 f4 seed5
+grid FPI r1 f4 seed6
+grid FPI r1 f4 seed7
+grid FPI r1 f4 seed8
+grid FPI r1 f4 seed9
+grid FPI r1 f4 seed10
+grid FPI r1 f4 seed11
+grid FPI r1 f4 seed12
+grid FPI r1 f4 seed13
+grid FPI r1 f4 seed14
+grid FPI r1 f4 seed15
+grid FPI r1 f4 seed16
+grid FPI r1 f4 seed17
+grid FPI r1 f4 seed18
+grid FPI r1 f4 seed19
+grid FPI r2 f0 seed0
+grid FPI r2 f0 seed1
+grid FPI r2 f0 seed2
+grid FPI r2 f0 seed3
+grid FPI r2 f0 seed4
+grid FPI r2 f0 seed5
+grid FPI r2 f0 seed6
+grid FPI r2 f0 seed7
+grid FPI r2 f0 seed8
+grid FPI r2 f0 seed9
+grid FPI r2 f0 seed10
+grid FPI r2 f0 seed11
+grid FPI r2 f0 seed12
+grid FPI r2 f0 seed13
+grid FPI r2 f0 seed14
+grid FPI r2 f0 seed15
+grid FPI r2 f0 seed16
+grid FPI r2 f0 seed17
+grid FPI r2 f0 seed18
+grid FPI r2 f0 seed19
+grid FPI r2 f1 seed0
+grid FPI r2 f1 seed1
+grid FPI r2 f1 seed2
+grid FPI r2 f1 seed3
+grid FPI r2 f1 seed4
+grid FPI r2 f1 seed5
+grid FPI r2 f1 seed6
+grid FPI r2 f1 seed7
+grid FPI r2 f1 seed8
+grid FPI r2 f1 seed9
+grid FPI r2 f1 seed10
+grid FPI r2 f1 seed11
+grid FPI r2 f1 seed12
+grid FPI r2 f1 seed13
+grid FPI r2 f1 seed14
+grid FPI r2 f1 seed15
+grid FPI r2 f1 seed16
+grid FPI r2 f1 seed17
+grid FPI r2 f1 seed18
+grid FPI r2 f1 seed19
+grid FPI r2 f2 seed0
+grid FPI r2 f2 seed1
+grid FPI r2 f2 seed2
+grid FPI r2 f2 seed3
+grid FPI r2 f2 seed4
+grid FPI r2 f2 seed5
+grid FPI r2 f2 seed6
+grid FPI r2 f2 seed7
+grid FPI r2 f2 seed8
+grid FPI r2 f2 seed9
+grid FPI r2 f2 seed10
+grid FPI r2 f2 seed11
+grid FPI r2 f2 seed12
+grid FPI r2 f2 seed13
+grid FPI r2 f2 seed14
+grid FPI r2 f2 seed15
+grid FPI r2 f2 seed16
+grid FPI r2 f2 seed17
+grid FPI r2 f2 seed18
+grid FPI r2 f2 seed19
+grid FPI r2 f3 seed0
+grid FPI r2 f3 seed1
+grid FPI r2 f3 seed2
+grid FPI r2 f3 seed3
+grid FPI r2 f3 seed4
+grid FPI r2 f3 seed5
+grid FPI r2 f3 seed6
+grid FPI r2 f3 seed7
+grid FPI r2 f3 seed8
+grid FPI r2 f3 seed9
+grid FPI r2 f3 seed10
+grid FPI r2 f3 seed11
+grid FPI r2 f3 seed12
+grid FPI r2 f3 seed13
+grid FPI r2 f3 seed14
+grid FPI r2 f3 seed15
+grid FPI r2 f3 seed16
+grid FPI r2 f3 seed17
+grid FPI r2 f3 seed18
+grid FPI r2 f3 seed19
+grid FPI r2 f4 seed0
+grid FPI r2 f4 seed1
+grid FPI r2 f4 seed2
+grid FPI r2 f4 seed3
+grid FPI r2 f4 seed4
+grid FPI r2 f4 seed5
+grid FPI r2 f4 seed6
+grid FPI r2 f4 seed7
+grid FPI r2 f4 seed8
+grid FPI r2 f4 seed9
+grid FPI r2 f4 seed10
+grid FPI r2 f4 seed11
+grid FPI r2 f4 seed12
+grid FPI r2 f4 seed13
+grid FPI r2 f4 seed14
+grid FPI r2 f4 seed15
+grid FPI r2 f4 seed16
+grid FPI r2 f4 seed17
+grid FPI r2 f4 seed18
+grid FPI r2 f4 seed19
+task  budget policy  mean_people  sd_people  mean_trials_per_person
+ FPI      70  CONV5       14.000      0.000                   5.000
+ FPI      70   FIX1       56.000      0.000                   1.250
+ FPI      70   FIX2       35.000      0.000                   2.000
+ FPI      70   FIX3       24.000      0.000                   2.917
+ FPI      70   FIX4       18.000      0.000                   3.889
+ FPI      70 MARGIN       44.263      9.369                   1.671
+ FPI      70 RANDOM       35.093      9.284                   2.172
+ FPI     105  CONV5       21.000      0.000                   5.000
+ FPI     105   FIX1       56.000      0.000                   1.875
+ FPI     105   FIX2       53.000      0.000                   1.981
+ FPI     105   FIX3       35.000      0.000                   3.000
+ FPI     105   FIX4       27.000      0.000                   3.889
+ FPI     105 MARGIN       54.600      4.088                   1.938
+ FPI     105 RANDOM       50.260      7.726                   2.157
+task  budget                      policy            metric    mean  ci_low  ci_high  within_repeat_sd_mean  sd_of_repeat_means  pairs  pairs_positive
+ FPI     105                       CONV5 balanced_accuracy  0.6056  0.5429   0.6659                 0.0524              0.0110     60             NaN
+ FPI     105                        FIX4 balanced_accuracy  0.6403  0.5711   0.7066                 0.0426              0.0080     60             NaN
+ FPI     105                        FIX3 balanced_accuracy  0.6681  0.5921   0.7405                 0.0372              0.0123     60             NaN
+ FPI     105                        FIX2 balanced_accuracy  0.6942  0.6011   0.7806                 0.0277              0.0086     60             NaN
+ FPI     105                        FIX1 balanced_accuracy  0.7031  0.6086   0.7901                 0.0260              0.0092     60             NaN
+ FPI     105                      RANDOM balanced_accuracy  0.6835  0.5939   0.7666                 0.0362              0.0125     60             NaN
+ FPI     105                      MARGIN balanced_accuracy  0.6995  0.6068   0.7854                 0.0302              0.0069     60             NaN
+ FPI     105          MARGIN_minus_CONV5 balanced_accuracy  0.0939  0.0457   0.1404                 0.0532              0.0178     60            59.0
+ FPI     105         MARGIN_minus_RANDOM balanced_accuracy  0.0160  0.0077   0.0252                 0.0347              0.0067     60            36.0
+ FPI     105 MARGIN_minus_FIX1_ORACLEFIX balanced_accuracy -0.0035 -0.0111   0.0034                 0.0205              0.0060     60            12.0
+ FPI      70                       CONV5 balanced_accuracy  0.5567  0.5052   0.6058                 0.0567              0.0128     60             NaN
+ FPI      70                        FIX4 balanced_accuracy  0.5918  0.5341   0.6470                 0.0541              0.0167     60             NaN
+ FPI      70                        FIX3 balanced_accuracy  0.6290  0.5632   0.6919                 0.0531              0.0089     60             NaN
+ FPI      70                        FIX2 balanced_accuracy  0.6663  0.5916   0.7350                 0.0417              0.0127     60             NaN
+ FPI      70                        FIX1 balanced_accuracy  0.6956  0.6033   0.7810                 0.0282              0.0082     60             NaN
+ FPI      70                      RANDOM balanced_accuracy  0.6566  0.5841   0.7253                 0.0460              0.0079     60             NaN
+ FPI      70                      MARGIN balanced_accuracy  0.6731  0.5905   0.7508                 0.0390              0.0138     60             NaN
+ FPI      70          MARGIN_minus_CONV5 balanced_accuracy  0.1164  0.0657   0.1641                 0.0729              0.0262     60            56.0
+ FPI      70         MARGIN_minus_RANDOM balanced_accuracy  0.0165 -0.0027   0.0365                 0.0431              0.0110     60            35.0
+ FPI      70 MARGIN_minus_FIX1_ORACLEFIX balanced_accuracy -0.0226 -0.0406  -0.0043                 0.0379              0.0101     60            17.0
+grid GaitRec r0 f0 seed0
+grid GaitRec r0 f0 seed1
+grid GaitRec r0 f0 seed2
+grid GaitRec r0 f0 seed3
+grid GaitRec r0 f0 seed4
+grid GaitRec r0 f1 seed0
+grid GaitRec r0 f1 seed1
+grid GaitRec r0 f1 seed2
+grid GaitRec r0 f1 seed3
+grid GaitRec r0 f1 seed4
+grid GaitRec r0 f2 seed0
+grid GaitRec r0 f2 seed1
+grid GaitRec r0 f2 seed2
+grid GaitRec r0 f2 seed3
+grid GaitRec r0 f2 seed4
+grid GaitRec r0 f3 seed0
+grid GaitRec r0 f3 seed1
+grid GaitRec r0 f3 seed2
+grid GaitRec r0 f3 seed3
+grid GaitRec r0 f3 seed4
+grid GaitRec r0 f4 seed0
+grid GaitRec r0 f4 seed1
+grid GaitRec r0 f4 seed2
+grid GaitRec r0 f4 seed3
+grid GaitRec r0 f4 seed4
+grid GaitRec r1 f0 seed0
+grid GaitRec r1 f0 seed1
+grid GaitRec r1 f0 seed2
+grid GaitRec r1 f0 seed3
+grid GaitRec r1 f0 seed4
+grid GaitRec r1 f1 seed0
+grid GaitRec r1 f1 seed1
+grid GaitRec r1 f1 seed2
+grid GaitRec r1 f1 seed3
+grid GaitRec r1 f1 seed4
+grid GaitRec r1 f2 seed0
+grid GaitRec r1 f2 seed1
+grid GaitRec r1 f2 seed2
+grid GaitRec r1 f2 seed3
+grid GaitRec r1 f2 seed4
+grid GaitRec r1 f3 seed0
+grid GaitRec r1 f3 seed1
+grid GaitRec r1 f3 seed2
+grid GaitRec r1 f3 seed3
+grid GaitRec r1 f3 seed4
+grid GaitRec r1 f4 seed0
+grid GaitRec r1 f4 seed1
+grid GaitRec r1 f4 seed2
+grid GaitRec r1 f4 seed3
+grid GaitRec r1 f4 seed4
+grid GaitRec r2 f0 seed0
+grid GaitRec r2 f0 seed1
+grid GaitRec r2 f0 seed2
+grid GaitRec r2 f0 seed3
+grid GaitRec r2 f0 seed4
+grid GaitRec r2 f1 seed0
+grid GaitRec r2 f1 seed1
+grid GaitRec r2 f1 seed2
+grid GaitRec r2 f1 seed3
+grid GaitRec r2 f1 seed4
+grid GaitRec r2 f2 seed0
+grid GaitRec r2 f2 seed1
+grid GaitRec r2 f2 seed2
+grid GaitRec r2 f2 seed3
+grid GaitRec r2 f2 seed4
+grid GaitRec r2 f3 seed0
+grid GaitRec r2 f3 seed1
+grid GaitRec r2 f3 seed2
+grid GaitRec r2 f3 seed3
+grid GaitRec r2 f3 seed4
+grid GaitRec r2 f4 seed0
+grid GaitRec r2 f4 seed1
+grid GaitRec r2 f4 seed2
+grid GaitRec r2 f4 seed3
+grid GaitRec r2 f4 seed4
+   task  budget policy  mean_people  sd_people  mean_trials_per_person
+GaitRec    1500  CONV5      300.000      0.000                   5.000
+GaitRec    1500   FIX1     1040.800      0.403                   1.441
+GaitRec    1500   FIX2      750.000      0.000                   2.000
+GaitRec    1500   FIX3      500.000      0.000                   3.000
+GaitRec    1500   FIX4      375.000      0.000                   4.000
+GaitRec    1500 MARGIN      890.347    143.786                   1.738
+GaitRec    1500 RANDOM      757.640    161.482                   2.097
+GaitRec    3000  CONV5      600.000      0.000                   5.000
+GaitRec    3000   FIX1     1040.800      0.403                   2.882
+GaitRec    3000   FIX2     1040.800      0.403                   2.882
+GaitRec    3000   FIX3     1000.000      0.000                   3.000
+GaitRec    3000   FIX4      750.000      0.000                   4.000
+GaitRec    3000 MARGIN     1040.800      0.403                   2.882
+GaitRec    3000 RANDOM     1040.253      4.728                   2.884
+   task  budget                      policy            metric    mean  ci_low  ci_high  within_repeat_sd_mean  sd_of_repeat_means  pairs  pairs_positive
+GaitRec    3000                       CONV5 balanced_accuracy  0.4205  0.3980   0.4424                 0.0071              0.0071     15             NaN
+GaitRec    3000                        FIX4 balanced_accuracy  0.4246  0.4012   0.4477                 0.0065              0.0030     15             NaN
+GaitRec    3000                        FIX3 balanced_accuracy  0.4277  0.4030   0.4527                 0.0058              0.0062     15             NaN
+GaitRec    3000                        FIX2 balanced_accuracy  0.4313  0.4064   0.4564                 0.0048              0.0059     15             NaN
+GaitRec    3000                        FIX1 balanced_accuracy  0.4313  0.4064   0.4564                 0.0048              0.0059     15             NaN
+GaitRec    3000                      RANDOM balanced_accuracy  0.4317  0.4067   0.4568                 0.0051              0.0060     15             NaN
+GaitRec    3000                      MARGIN balanced_accuracy  0.4307  0.4058   0.4558                 0.0044              0.0056     15             NaN
+GaitRec    3000          MARGIN_minus_CONV5 balanced_accuracy  0.0102  0.0025   0.0179                 0.0080              0.0030     15            14.0
+GaitRec    3000         MARGIN_minus_RANDOM balanced_accuracy -0.0010 -0.0024   0.0005                 0.0030              0.0010     15             4.0
+GaitRec    3000 MARGIN_minus_FIX2_ORACLEFIX balanced_accuracy -0.0006 -0.0016   0.0004                 0.0017              0.0007     15             4.0
+GaitRec    1500                       CONV5 balanced_accuracy  0.4039  0.3843   0.4229                 0.0105              0.0112     15             NaN
+GaitRec    1500                        FIX4 balanced_accuracy  0.4139  0.3933   0.4337                 0.0078              0.0107     15             NaN
+GaitRec    1500                        FIX3 balanced_accuracy  0.4164  0.3956   0.4377                 0.0051              0.0027     15             NaN
+GaitRec    1500                        FIX2 balanced_accuracy  0.4249  0.4015   0.4476                 0.0062              0.0017     15             NaN
+GaitRec    1500                        FIX1 balanced_accuracy  0.4315  0.4070   0.4556                 0.0055              0.0061     15             NaN
+GaitRec    1500                      RANDOM balanced_accuracy  0.4244  0.4013   0.4472                 0.0067              0.0060     15             NaN
+GaitRec    1500                      MARGIN balanced_accuracy  0.4267  0.4030   0.4502                 0.0067              0.0054     15             NaN
+GaitRec    1500          MARGIN_minus_CONV5 balanced_accuracy  0.0228  0.0134   0.0323                 0.0100              0.0059     15            15.0
+GaitRec    1500         MARGIN_minus_RANDOM balanced_accuracy  0.0023 -0.0018   0.0062                 0.0069              0.0009     15             9.0
+GaitRec    1500 MARGIN_minus_FIX1_ORACLEFIX balanced_accuracy -0.0047 -0.0084  -0.0011                 0.0048              0.0028     15             2.0
+{"internal_fits": 243161, "final_fits": 5250, "exclusion_control_fits": 5250}
+GRID_EXIT=0

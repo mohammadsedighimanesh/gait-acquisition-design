@@ -1,0 +1,11 @@
+{
+  "acquisition_audit.csv": "577fa792c2aa09fcaf9b96e74ca96be365e2080be4df36833c995da7bcdec1ba",
+  "acquisition_memberships.csv": "f975928c8fbd6dc059b3999e9cf687335b8f21f4dd3403fae470ee36d6529190",
+  "fit_timings.csv": "53d197ba366d12971b153f1b1b3ba8c2bd85a9d293d6e32880b504ff3e176da9",
+  "frozen_protocol_copy.json": "b61a449836dc79978e9ae1b7464dec02affa0a28944f9560bdd64489df6077a4",
+  "heldout_predictions.csv": "859892e31f0619870ba2957decdfa0324bc9a3fe81406c374eb237371b9f5aac",
+  "pilot_metrics_by_fold_draw.csv": "76e7db1866122228405ed6388b03de61d78b8c697510d0f80ad1e941b9f271ce",
+  "pilot_summary.json": "cf414e2764e00059187c8a359b6556eb853b7bbbc512c0d3b02a5a177d54b7db",
+  "progress.json": "92751aca0a2e30a9d5ef1d4c6424f39047c8a17e50564bb1dbcc9f1afa0104f9",
+  "provenance_replay.csv": "95affe6e1a2694d6defb2d10c2013eb211a87286e28a6c3bda138440806c55cd"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "stage": "grid",
+  "checks": {
+    "addendum_hash": true,
+    "script_hash": true,
+    "manifest_all_hashed": true,
+    "convergence_warnings": 0,
+    "final_fits_equal_models": true,
+    "acquisition_logs_valid": true,
+    "margin_decisions_reproduced": true,
+    "csv_precision_ties_accepted": 294,
+    "models_replayed": 5250,
+    "max_probability_replay_error": 1.1102230246251565e-15,
+    "replay_within_1e-8": true,
+    "scaler_from_acquired_trials_max_error": 0.0,
+    "exclusion_within_1e-8": true,
+    "summary_recomputed_match": true
+  },
+  "verification_model_fits": 0
+}

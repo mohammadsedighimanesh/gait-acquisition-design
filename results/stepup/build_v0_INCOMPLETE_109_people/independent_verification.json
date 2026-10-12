@@ -1,0 +1,17 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "stage": "build",
+  "label": "L1",
+  "checks": {
+    "features_cache_hash": true,
+    "source_hashes_unchanged": true,
+    "included_matches_cache": true,
+    "eligibility_and_bag_replayed": true,
+    "feature_replay_max_error": 0.0,
+    "feature_replay_within_1e-12": true,
+    "labels_match_metadata": true,
+    "splits_L1_valid": true,
+    "splits_L2_valid": true
+  },
+  "verification_model_fits": 0
+}

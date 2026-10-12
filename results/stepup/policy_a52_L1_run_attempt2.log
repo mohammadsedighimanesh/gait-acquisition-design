@@ -1,0 +1,31 @@
+a52 L1 r0 f0 seed0
+a52 L1 r0 f0 seed1
+a52 L1 r0 f0 seed2
+a52 L1 r0 f0 seed3
+a52 L1 r0 f0 seed4
+a52 L1 r0 f0 seed5
+a52 L1 r0 f0 seed6
+a52 L1 r0 f0 seed7
+a52 L1 r0 f0 seed8
+a52 L1 r0 f0 seed9
+a52 L1 r0 f1 seed0
+a52 L1 r0 f1 seed1
+a52 L1 r0 f1 seed2
+a52 L1 r0 f1 seed3
+a52 L1 r0 f1 seed4
+Traceback (most recent call last):
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup_a52.py", line 98, in <module>
+    run(L)
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup_a52.py", line 78, in run
+    pipe = task.fit(task.feats(X_nan, acquired), labels, g.SEED + fold, 'final_fits'); pipe2 = task.fit(task.feats(X_noise, acquired), labels, g.SEED + fold, 'exclusion_control_fits')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SelfPaper\ziai\restricted_acquisition_stepup_a52.py", line 43, in fit
+    warnings.simplefilter('always', ConvergenceWarning); model.fit(z, labels)
+                                                         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\base.py", line 1365, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sedigh\.conda\envs\economy_ml_p02_llm\Lib\site-packages\sklearn\linear_model\_logistic.py", line 1335, in fit
+    raise ValueError(
+ValueError: This solver needs samples of at least 2 classes in the data, but the data contains only one class: np.int64(1)
+EXIT=1

@@ -1,0 +1,10 @@
+{
+  "status": "FAILED",
+  "error": "AssertionError()",
+  "traceback": "Traceback (most recent call last):\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_policy.py\", line 306, in <module>\n    run(stage)\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_policy.py\", line 277, in run\n    pipe = task.fit(task.feats(X_nan, acquired), labels, SEED + fold, 'final_fits')\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\SelfPaper\\ziai\\restricted_acquisition_policy.py\", line 80, in fit\n    assert model.classes_.tolist() == list(range(self.nc)); FITS[count_key] += 1\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "fits_before_failure": {
+    "internal_fits": 29187,
+    "final_fits": 763,
+    "exclusion_control_fits": 763
+  }
+}

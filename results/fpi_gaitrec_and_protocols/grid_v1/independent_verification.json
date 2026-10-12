@@ -1,0 +1,32 @@
+{
+  "status": "PASS_LISTED_CHECKS_ONLY",
+  "checks": {
+    "protocol_hash": true,
+    "addendum_hash": true,
+    "grid_script_hash": true,
+    "input_hashes": true,
+    "manifest_all_files_hashed": true,
+    "manifest_includes_all_models": true,
+    "fit_counts": true,
+    "exclusion_flags_all_true": true,
+    "class_order_all_012": true,
+    "convergence_no_max_iter": true,
+    "convergence_warnings": 0,
+    "zero_variance_columns_seen": 6,
+    "model_class_order": true,
+    "nested_people_and_trials": true,
+    "class_counts_three_classes": true,
+    "test_recorded_and_disjoint": true,
+    "models_replayed": 5400,
+    "max_probability_replay_error": 1.1102230246251565e-16,
+    "replay_within_1e-8": true,
+    "scaler_matches_retained_trials_only_max_error": 0.0,
+    "exclusion_from_memberships_within_1e-8": true,
+    "surface_recomputed_match": true,
+    "contrast_recomputed_match": true,
+    "primary_point_plain_recompute_match": true,
+    "bootstrap_unit_is_70_participants_shared_weights": true
+  },
+  "verification_model_fits": 0,
+  "scope": "hashes, membership nesting, class counts, test disjointness, exclusion via scaler statistics, probability replay, metric/contrast/CI recomputation, convergence, fit counts"
+}

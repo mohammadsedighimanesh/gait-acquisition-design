@@ -1,0 +1,9 @@
+Dataset,C regime,Metric,Difference [95% CI]
+FPI (35x3 minus 21x5),inner-tuned,balanced accuracy,"0.040 [0.016, 0.062]"
+FPI (35x3 minus 21x5),inner-tuned,log loss,"-0.094 [-0.126, -0.059]"
+FPI (35x3 minus 21x5),fixed 0.1,balanced accuracy,"0.037 [0.013, 0.060]"
+FPI (35x3 minus 21x5),fixed 0.1,log loss,"-0.087 [-0.112, -0.061]"
+StepUP sex (120x5 minus 60x10),inner-tuned,balanced accuracy,"0.007 [-0.013, 0.027]"
+StepUP sex (120x5 minus 60x10),inner-tuned,log loss,"-0.035 [-0.068, -0.012]"
+StepUP sex (120x5 minus 60x10),fixed 0.1,balanced accuracy,"0.007 [-0.013, 0.027]"
+StepUP sex (120x5 minus 60x10),fixed 0.1,log loss,"-0.036 [-0.068, -0.012]"

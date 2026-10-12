@@ -1,0 +1,13 @@
+claim,verdict,reason
+All possible selections were evaluated,SUPPORTED_WITH_RESTRICTION,"All 31 nonempty subsets of the five accepted recordings per person, not all possible future gait trials"
+Trial-count effect is merely a refitting artifact,NOT_SUPPORTED_BY_FIXED_MODEL_CONTROL,Fixed five-trial models retain positive conditional five-vs-one BA differences
+Five trials always improve predictions,NOT_SUPPORTED,Mean point estimates are not monotone; individual people can worsen; no universal gain
+Three trials are sufficient,NOT_ESTABLISHED,Original compatibility test failed; fixed-model Median difference CI also crosses the -3pp engineering margin
+Five trials are clinically optimal,NOT_ESTABLISHED,"No data beyond five accepted trials, no measured cost, no clinical utility threshold"
+Median is superior to mean,NOT_ESTABLISHED,Original paired conditional interval includes zero
+Five-trial disagreement is zero,STRUCTURAL_ONLY,Only one possible five-trial subset exists; not biological reliability certification
+Feature reliability predicts stable FPI decisions,NOT_ROBUSTLY_ESTABLISHED,Variance-disagreement relation is weak and not significant after multiple-comparison correction
+A new aggregation algorithm was developed,FALSE,Mean/median and multi-trial early/late fusion predate this study
+A task-specific empirical audit is delivered,SUPPORTED,"Corrected inputs, person-disjoint splits, exhaustive composition analysis and frozen-model sensitivity"
+First-ever FPI acquisition study,NOT_ESTABLISHED,Targeted search cannot prove absence of prior work
+Internal evaluation proves external clinical generalization,FALSE,"70 healthy men, selected FPI classes, same session, examined cohort, no external data"

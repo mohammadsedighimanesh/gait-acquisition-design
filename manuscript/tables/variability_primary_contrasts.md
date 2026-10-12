@@ -1,0 +1,6 @@
+| Dataset | Primary contrast | Mean (points) | Within-repeat SD over draws (points) | SD of the three repeat means (points) |
+|---|---|---|---|---|
+| FPI posture classes (70 men) | 35x3 minus 21x5 | +3.7 | 5.2 | 0.55 |
+| GaitRec diagnosis classes (1,301 patients) | 1000x3 minus 600x5 | +0.8 | 0.8 | 0.07 |
+| StepUP sex (150) | 120x5 minus 60x10 | +0.7 | 3.8 | 1.63 |
+| StepUP BMI ≥ 25 (150) | 120x5 minus 60x10 | +2.6 | 3.3 | 1.22 |

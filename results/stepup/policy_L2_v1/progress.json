@@ -1,0 +1,14 @@
+{
+  "primary_fits": 0,
+  "exclusion_control_fits": 2700,
+  "internal_fits": 166050,
+  "final_fits": 2700,
+  "inner_fits": 0,
+  "refits": 0,
+  "warnings": 0,
+  "max_n_iter": 11,
+  "missing_class_fits": 0,
+  "stage": "policy",
+  "label": "L2",
+  "wall_seconds": 1946.1
+}

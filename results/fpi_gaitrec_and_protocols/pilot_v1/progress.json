@@ -1,0 +1,9 @@
+{
+  "pilot_logistic_fits": 50,
+  "exclusion_proof_duplicate_fits": 50,
+  "total_fits_executed": 100,
+  "authorized_primary_fits": 50,
+  "runtime_seconds": 0.257,
+  "mean_fit_seconds": 0.0051,
+  "full_grid_run": false
+}

@@ -1,0 +1,43 @@
+{
+  "status": "FROZEN_A2_SENSITIVITY",
+  "date": "2026-10-10T16:04:00",
+  "addendum_A2_sha256": "c9a788f058d517861be434608cac3845958151a9c8731c5126541221b4f60119",
+  "script_sha256": "0b71b1ca619b03dcf36138471a8dc974d49f8cddacf9b47d64aad94c2b4a1891",
+  "input_sha256": {
+    "idea1_2026\\learned_multitrial_aggregation_pilot_v1\\source_feature_cache.npz": "1cdef1a7c3dc181f8e8ccfcdd1585992017d163ff79f6afa785b0e3cae37c924",
+    "idea1_2026\\restricted_acquisition_learning_surface_v1\\PROTOCOL_v2_FROZEN.md": "d98ee18951e3d0fe3e3f62f09d459211890570b31d757e9283035826b6f5a623",
+    "idea1_2026\\restricted_acquisition_learning_surface_v1\\ADDENDUM_A1_FULL_GRID.md": "1e43e2c0da3c6b2265a063b997dc947503dd27f52b3a611c486f7455b7ceebae"
+  },
+  "grid_memberships_sha256": "2a2f1e90583bca4b60852dcff04567d854c31dad177fa6eb8493349b59a0b9ec",
+  "grid_predictions_sha256": "60e085ee61be2c8ab5718511398533c21675470ebce258c3ef45ddda97956665",
+  "cells": [
+    [
+      35,
+      3
+    ],
+    [
+      21,
+      5
+    ]
+  ],
+  "C_grid": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "selection_rule": "argmin mean inner-validation log loss over 3 inner folds; ties -> smaller C",
+  "inner_scaler": "fitted on inner-training people of that inner fold only",
+  "seed": 20261103,
+  "bootstrap": 5000,
+  "expected_fits": {
+    "inner": 5400,
+    "refits": 600,
+    "exclusion_control": 600
+  },
+  "gaitrec_authorized": false,
+  "software": {
+    "python": "3.11.15",
+    "sklearn": "1.7.2",
+    "numpy": "2.3.4"
+  }
+}

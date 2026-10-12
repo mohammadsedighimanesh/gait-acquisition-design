@@ -1,0 +1,12 @@
+{
+  "internal_fits": 243161,
+  "final_fits": 5250,
+  "exclusion_control_fits": 5250,
+  "total_fits_executed": 253661,
+  "stage": "grid",
+  "wall_seconds": 4129.3,
+  "convergence_warnings": 0,
+  "max_n_iter": 35,
+  "missing_class_fits": 10,
+  "official_test_used": false
+}

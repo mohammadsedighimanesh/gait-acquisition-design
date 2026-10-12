@@ -1,0 +1,66 @@
+grid FPI r0 f0 seed0
+grid FPI r0 f0 seed1
+grid FPI r0 f0 seed2
+grid FPI r0 f0 seed3
+grid FPI r0 f0 seed4
+grid FPI r0 f0 seed5
+grid FPI r0 f0 seed6
+grid FPI r0 f0 seed7
+grid FPI r0 f0 seed8
+grid FPI r0 f0 seed9
+grid FPI r0 f0 seed10
+grid FPI r0 f0 seed11
+grid FPI r0 f0 seed12
+grid FPI r0 f0 seed13
+grid FPI r0 f0 seed14
+grid FPI r0 f0 seed15
+grid FPI r0 f0 seed16
+grid FPI r0 f0 seed17
+grid FPI r0 f0 seed18
+grid FPI r0 f0 seed19
+grid FPI r0 f1 seed0
+grid FPI r0 f1 seed1
+grid FPI r0 f1 seed2
+grid FPI r0 f1 seed3
+grid FPI r0 f1 seed4
+grid FPI r0 f1 seed5
+grid FPI r0 f1 seed6
+grid FPI r0 f1 seed7
+grid FPI r0 f1 seed8
+grid FPI r0 f1 seed9
+grid FPI r0 f1 seed10
+grid FPI r0 f1 seed11
+grid FPI r0 f1 seed12
+grid FPI r0 f1 seed13
+grid FPI r0 f1 seed14
+grid FPI r0 f1 seed15
+grid FPI r0 f1 seed16
+grid FPI r0 f1 seed17
+grid FPI r0 f1 seed18
+grid FPI r0 f1 seed19
+grid FPI r0 f2 seed0
+grid FPI r0 f2 seed1
+grid FPI r0 f2 seed2
+grid FPI r0 f2 seed3
+grid FPI r0 f2 seed4
+grid FPI r0 f2 seed5
+grid FPI r0 f2 seed6
+grid FPI r0 f2 seed7
+grid FPI r0 f2 seed8
+grid FPI r0 f2 seed9
+grid FPI r0 f2 seed10
+grid FPI r0 f2 seed11
+grid FPI r0 f2 seed12
+grid FPI r0 f2 seed13
+grid FPI r0 f2 seed14
+Traceback (most recent call last):
+  File "D:\SelfPaper\ziai\restricted_acquisition_policy.py", line 306, in <module>
+    run(stage)
+  File "D:\SelfPaper\ziai\restricted_acquisition_policy.py", line 277, in run
+    pipe = task.fit(task.feats(X_nan, acquired), labels, SEED + fold, 'final_fits')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SelfPaper\ziai\restricted_acquisition_policy.py", line 80, in fit
+    assert model.classes_.tolist() == list(range(self.nc)); FITS[count_key] += 1
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+GRID_EXIT=1
